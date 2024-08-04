@@ -33,7 +33,7 @@ This project was completed during an internship at BARC, India. Special thanks t
 
 ## Contact
 Akshat Pandey
-[Your Email/LinkedIn/GitHub profile]
+Email: akshatp1903@gmail.com
 
 ---
 Note: I have the permission to upload this on here, as this was a small part of the project I did.
