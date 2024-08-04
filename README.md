@@ -32,8 +32,7 @@ It has a very simple and easy to use interface, after you push the Login button 
 This project was completed during an internship at BARC, India. Special thanks to Mr. Abhishek Jaju for their guidance and support.
 
 ## Contact
-Akshat Pandey
-Email: akshatp1903@gmail.com
+Akshat Pandey | akshatp1903@gmail.com
 
 ---
 Note: I have the permission to upload this on here, as this was a small part of the project I did.
