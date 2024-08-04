@@ -1,0 +1,19 @@
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\bin\Debug\relays.exe.config
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\obj\Debug\relays.csprojResolveAssemblyReference.cache
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\obj\Debug\relays.Properties.Resources.resources
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\obj\Debug\relays.csproj.GenerateResource.Cache
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\bin\Debug\relays.exe
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\bin\Debug\relays.pdb
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\obj\Debug\relays.Form1.resources
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\obj\Debug\relays.exe
+c:\users\barc\documents\visual studio 2015\Projects\relays\relays\obj\Debug\relays.pdb
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.csproj.AssemblyReference.cache
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.Form1.resources
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.Properties.Resources.resources
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.csproj.GenerateResource.cache
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.csproj.CoreCompileInputs.cache
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.exe
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\obj\Debug\relays.pdb
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\bin\Debug\relays.exe.config
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\bin\Debug\relays.exe
+C:\Users\mahes\OneDrive\Desktop\relays\relays\relays\bin\Debug\relays.pdb
